@@ -43,17 +43,17 @@ const Project = () => {
                 </div>
 
                 <div className='projImg'>
-                <img src='/assets/images/password-generator.jpg' alt='projectImg' />
+                    {/* <img src='/assets/images/password-generator.jpg' alt='projectImg' /> */}
 
-                    {/* <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/password-generator.jpg' alt='projectImg' /> */}
+                    <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/password-generator.jpg' alt='projectImg' />
                 </div>
             </div>
 
             <div className='projRow'>
                 <div className='projImg'>
-                <img src='/assets/images/QuizApp.jpg' alt='projectImg' />
+                    {/* <img src='/assets/images/QuizApp.jpg' alt='projectImg' /> */}
 
-                    {/* <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/QuizApp.jpg' alt='projectImg' /> */}
+                    <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/QuizApp.jpg' alt='projectImg' />
                 </div>
 
                 <div className='projDetail'>
@@ -118,17 +118,17 @@ const Project = () => {
                 </div>
 
                 <div className='projImg'>
-                <img src='/assets/images/basic_calculator.jpg' alt='projectImg' />
+                    {/* <img src='/assets/images/basic_calculator.jpg' alt='projectImg' /> */}
 
-                    {/* <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/basic_calculator.jpg' alt='projectImg' /> */}
+                    <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/basic_calculator.jpg' alt='projectImg' />
                 </div>
             </div>
 
             <div className='projRow'>
                 <div className='projImg'>
-                <img src='/assets/images/eaterian-wp.png' alt='projectImg' />
+                    {/* <img src='/assets/images/eaterian-wp.png' alt='projectImg' /> */}
 
-                    {/* <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/eaterian-wp.png' alt='projectImg' /> */}
+                    <img src='https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/eaterian-wp.png' alt='projectImg' />
                 </div>
 
                 <div className='projDetail'>
@@ -171,20 +171,20 @@ const Project = () => {
         <section className='pGallery'>
         <div className="projGall">
 
-            <img decoding="async" src="/assets/images/Food_ordering.png" alt="" />
+            {/* <img decoding="async" src="/assets/images/Food_ordering.png" alt="" />
             <img decoding="async" src="/assets/images/bike_project.png" alt="" />
             <img decoding="async" src="/assets/images/NFT_landing_page.png" alt="" />
             <img decoding="async" src="/assets/images/pixlab_project.png" alt="" />
             <img decoding="async" src="/assets/images/hospital_project.png" alt="" />
             <img decoding="async" src="/assets/images/e-guru.jpg" alt="" />
- 
+  */}
 
-            {/* <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/Food_ordering.png" alt="" />
+            <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/Food_ordering.png" alt="" />
             <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/bike_project.png" alt="" />
             <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/NFT_landing_page.png" alt="" />
             <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/pixlab_project.png" alt="" />
             <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/hospital_project.png" alt="" />
-            <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/e-guru.jpg" alt="" /> */}
+            <img decoding="async" src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/e-guru.jpg" alt="" />
         </div>
         <div className='moreBtn centeredText'>
         <a href="https://github.com/ArifaEaterian/LearningFullStackWebDev/" target="_blank" className="socialLink"><FontAwesomeIcon icon={faExpand} /> More Projects </a>
