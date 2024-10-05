@@ -26,8 +26,9 @@ const About = () => {
             </div>
                 
             <div className='aboutSec_2'>
-                {/* <img src="/assets/images/headerImg-500x500.png" alt='headerimg' className='headerImg' /> */}
-                <img src="https://arifaeaterian.github.io//My_Portfolio_In_React2/assets/images/headerImg-500x500.png" alt='headerimg' className='headerImg' />             
+                <img src="/assets/images/headerImg-500x500.png" alt='headerimg' className='headerImg' />
+              
+                {/* <img src="https://arifaeaterian.github.io/My_Portfolio_In_React2/assets/images/headerImg-500x500.png" alt='headerimg' className='headerImg' />              */}
             </div>
 
         </div>
