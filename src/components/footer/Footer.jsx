@@ -12,7 +12,7 @@ const Footer = () => {
         <section id='footer'>
             <footer>
                 <div className='copyRight'>
-                    <p>All Right Reserved | &copy; 2024</p>
+                    <p>All Right Reserved | &copy; 2025</p>
                 </div>
                 <div className='footIcon'>
                     <a className="mailLink" href="#">
